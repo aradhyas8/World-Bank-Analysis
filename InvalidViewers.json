@@ -1,0 +1,10 @@
+{
+  "Average Forest Area": ["Bar Graph", "Line Graph", "Scatter Plot"],
+  "Education Expenditure": ["Bar Graph", "Line Graph", "Scatter Plot"],
+  "CO2 Vs Energy Vs AirPollution": ["Pie Chart"],
+  "CO2 Vs GDP": ["Pie Chart"],
+  "Population Density Vs GDP Growth": ["Pie Chart"],
+  "Air Pollution Vs Forest Area": ["Pie Chart"],
+  "Health Expenditure Vs Hospital Beds": ["Pie Chart"],
+  "Education Vs Health Expenditure": ["Pie Chart"]
+}
